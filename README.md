@@ -1,6 +1,7 @@
 # MAKAHO [<img src="https://github.com/louis-heraut/MAKAHO/blob/cf59042ee48e7ada24d89ae8fa7f7878cff3eb26/www/MAKAHO.png" align="right" width=100 height=100 alt=""/>](https://makaho.sk8.inrae.fr/)
 
 <!-- badges: start -->
+[![NO AI USED](https://raw.githubusercontent.com/louis-heraut/louis-heraut/main/ai-label/ai-label_badge-no-ai-used.svg)](https://ai-label.org/)
 [![Lifecycle: stable](https://img.shields.io/badge/lifecycle-stable-green)](https://lifecycle.r-lib.org/articles/stages.html)
 ![](https://img.shields.io/github/last-commit/louis-heraut/MAKAHO)
 [![](https://img.shields.io/badge/Shiny-shinyapps.io-blue?style=flat&labelColor=white&logo=RStudio&logoColor=blue)](https://makaho.sk8.inrae.fr/)
